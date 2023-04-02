@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c84f7f68-e105-4ceb-8155-b0582e42220a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Hnk2gK6GIoeP31iV3IxlYeqqTF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images/product" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\polar\src\images\fast" />
+      <recent name="C:\Users\Admin\Desktop\polar\src\css" />
+      <recent name="C:\Users\Admin\Desktop\polar\src\libs\fancybox" />
+      <recent name="C:\Users\Admin\Desktop\polar\src\libs" />
+      <recent name="C:\Users\Admin\Desktop\polar\src\images\footer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\polar\src\images\product" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c84f7f68-e105-4ceb-8155-b0582e42220a" name="Default Changelist" comment="" />
+      <created>1668928029795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668928029795</updated>
+      <workItem from="1668928031070" duration="1249000" />
+      <workItem from="1668935204191" duration="8098000" />
+      <workItem from="1669211764408" duration="2420000" />
+      <workItem from="1669214614455" duration="13000" />
+      <workItem from="1669214656073" duration="24000" />
+      <workItem from="1669214798806" duration="10000" />
+      <workItem from="1669215532434" duration="12000" />
+      <workItem from="1669301187591" duration="3418000" />
+      <workItem from="1669304637671" duration="670000" />
+      <workItem from="1669305341658" duration="951000" />
+      <workItem from="1669384173626" duration="4695000" />
+      <workItem from="1669442607836" duration="5129000" />
+      <workItem from="1669469042209" duration="2576000" />
+      <workItem from="1669472055465" duration="1838000" />
+      <workItem from="1669481951167" duration="1115000" />
+      <workItem from="1669529074776" duration="5576000" />
+      <workItem from="1669991772059" duration="4076000" />
+      <workItem from="1670002200595" duration="662000" />
+      <workItem from="1670047370602" duration="3540000" />
+      <workItem from="1670134184387" duration="3084000" />
+      <workItem from="1670595289768" duration="1797000" />
+      <workItem from="1670652845021" duration="613000" />
+      <workItem from="1671258769178" duration="3150000" />
+      <workItem from="1671289842502" duration="355000" />
+      <workItem from="1671292508360" duration="1359000" />
+      <workItem from="1671343350531" duration="160000" />
+      <workItem from="1671347137132" duration="673000" />
+      <workItem from="1671704662494" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1671292521703">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1671292521703" />
+  </component>
+</project>
